@@ -1,5 +1,7 @@
 ﻿# JW Player DRM Tester
 
+[![](preview.png)](https://hahow.github.io/studiodrm-jwplayer/)
+
 ## Description
 
 This repository will demonstrate how to use [Studio DRM](https://developer.jwplayer.com/jwplayer/docs/studio-drm-standalone-getting-started) with [JW Player](https://jwplayer.com).
