@@ -20,7 +20,7 @@ If you have any questions please contact <support@jwplayer.com>
 
 1. Open the repository in your favorite javascript editor.
 1. Run `npm run dev` in the project's root.
-1. Load a supported browser and go to `http://127.0.0.1:5173`
+1. Load a supported browser and go to `http://127.0.0.1:5173/studiodrm-jwplayer/`
 1. In the demo page replace `Player Library URL` with the cloud player library url found in the "Player Downloads & Keys" section of your JW Player account on the dashboard. Please refer to the following documentation for guidance on retrieving your [cloud player library url](https://developer.jwplayer.com/jwplayer/docs/jw8-add-a-player-library#cloud-hosted)
 1. In the demo page replace `API Secret`. Please refer to the following documentation for guidance on retrieving your [signature](https://docs.jwplayer.com/platform/reference/protect-your-content-with-signed-urls#signature)
 1. In the demo page replace `Media ID` and `Policy ID`. Please refer to the following documentation for guidance on retrieving your [policy ID](https://docs.jwplayer.com/platform/docs/protection-studio-drm-generate-a-signed-content-url-for-drm-playback)
